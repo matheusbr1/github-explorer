@@ -1,11 +1,11 @@
 ﻿### Github Explorer
 
 Application built in the bootcamp of Rocketseat
-<br>
+
 Find repositories and see infos on github
-<br>
+
 This project consumes the github API : https://api.github.com
-<br>
+
 
 ![GE](https://user-images.githubusercontent.com/28275815/83973082-531cc800-a8ba-11ea-8322-3e8da4724bad.png)
 
